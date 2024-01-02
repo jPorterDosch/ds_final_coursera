@@ -1,4 +1,4 @@
-# testrepo_ds_final
-Test Repo Data Science Final
+# repo_ds_final
+Repo Data Science Final
 
-# This is a markdown file in this repo
+# This repo contains several different files, each with a different portion of the data analysis process
