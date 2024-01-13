@@ -7,15 +7,15 @@ Final project for the IBM Data Science Professional Certificate on Coursera
 
 Data analytics process from start to finish:
 
-	web scraping/API calls to retrieve data
+	Web scraping/API calls to retrieve data
  
-	data wrangling
+	Data wrangling
 	
  	EDA and visualization
   
-	interactive analytics
+	Interactive analytics
  
-	predictive analysis with machine learning models
+	Predictive analysis with machine learning models
 
 
 Powerpoint detailing the process
